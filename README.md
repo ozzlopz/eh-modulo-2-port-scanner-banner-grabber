@@ -45,12 +45,6 @@ Escaneando 127.0.0.1 de puerto 1 a 200...
 Puerto 22: ABIERTO
 Banner: SSH-2.0-OpenSSH_8.2p1
 --------------------------------------------------
-Puerto 80: ABIERTO
-Banner: HTTP/1.1 200 OK
---------------------------------------------------
-Puerto 443: ABIERTO
-Banner: No disponible
---------------------------------------------------
 Escaneo completado
 ```
 
