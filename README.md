@@ -27,8 +27,8 @@ El script:
 - `ip_objetivo`
 - `puerto_inicio`
 - `puerto_fin`
-- `timeout_segundos
-`
+- `timeout_segundos`
+
 Ejemplo:
 
 ```python
@@ -39,6 +39,7 @@ timeout_segundos=5
 ```
 
 ## Ejemplo de salida
+```
 Escaneando 127.0.0.1 de puerto 1 a 200...
 --------------------------------------------------
 Puerto 22: ABIERTO
@@ -51,7 +52,7 @@ Puerto 443: ABIERTO
 Banner: No disponible
 --------------------------------------------------
 Escaneo completado
-
+```
 
 ## Requisitos
 Requisitos:
